@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260520174925GXTOP3</value>
+    <value>20260520192710M6WR7Y</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260520174925BOMVOI</value>
+    <value>20260520192710CP5MS5</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779290866254</value>
+    <value>1779297773400</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mpe7uazk-0n1yng1po</odePageId>
+  <odePageId>page-mpebyckm-3pvciywif</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Presentación</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -129,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazk-0n1yng1po</odePageId>
+      <odePageId>page-mpebyckm-3pvciywif</odePageId>
       <odeBlockId>block-1778153202712-y8to5cpfv</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazk-0n1yng1po</odePageId>
+          <odePageId>page-mpebyckm-3pvciywif</odePageId>
           <odeBlockId>block-1778153202712-y8to5cpfv</odeBlockId>
           <odeIdeviceId>idevice-1778153202708-2us1zgtb8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -199,8 +199,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazn-1s9cy0y1f</odePageId>
-  <odeParentPageId>page-mpe7uazk-0n1yng1po</odeParentPageId>
+  <odePageId>page-mpebyckp-26r9cq3ie</odePageId>
+  <odeParentPageId>page-mpebyckm-3pvciywif</odeParentPageId>
   <pageName>Licencias y seguridad</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -235,7 +235,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazn-1s9cy0y1f</odePageId>
+      <odePageId>page-mpebyckp-26r9cq3ie</odePageId>
       <odeBlockId>block-1778494910682-reuv7kupp</odeBlockId>
       <blockName>Abrir el siguiente enlace</blockName>
       <iconName></iconName>
@@ -264,7 +264,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazn-1s9cy0y1f</odePageId>
+          <odePageId>page-mpebyckp-26r9cq3ie</odePageId>
           <odeBlockId>block-1778494910682-reuv7kupp</odeBlockId>
           <odeIdeviceId>idevice-1778494910679-8498q2w4w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -293,7 +293,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazo-e31wg9drr</odePageId>
+  <odePageId>page-mpebyckq-kw748fhcf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Producto final</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -329,7 +329,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazo-e31wg9drr</odePageId>
+      <odePageId>page-mpebyckq-kw748fhcf</odePageId>
       <odeBlockId>block-1778495280117-ns7o4qkeu</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -358,7 +358,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazo-e31wg9drr</odePageId>
+          <odePageId>page-mpebyckq-kw748fhcf</odePageId>
           <odeBlockId>block-1778495280117-ns7o4qkeu</odeBlockId>
           <odeIdeviceId>idevice-1778495280114-pg28o5iuv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -394,7 +394,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+  <odePageId>page-mpebyckr-xxkbvnzqe</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Curación de contenidos</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -430,7 +430,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+      <odePageId>page-mpebyckr-xxkbvnzqe</odePageId>
       <odeBlockId>block-1778495859800-77ew6xsob</odeBlockId>
       <blockName>Sitio web externo</blockName>
       <iconName></iconName>
@@ -459,7 +459,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+          <odePageId>page-mpebyckr-xxkbvnzqe</odePageId>
           <odeBlockId>block-1778495859800-77ew6xsob</odeBlockId>
           <odeIdeviceId>idevice-1778495859792-nj2uhapy7</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -484,7 +484,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+      <odePageId>page-mpebyckr-xxkbvnzqe</odePageId>
       <odeBlockId>block-1778496154132-ct80chbrf</odeBlockId>
       <blockName>Symbaloo FVM</blockName>
       <iconName></iconName>
@@ -513,7 +513,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+          <odePageId>page-mpebyckr-xxkbvnzqe</odePageId>
           <odeBlockId>block-1778496154132-ct80chbrf</odeBlockId>
           <odeIdeviceId>idevice-1778496154129-johsmqhde</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -542,7 +542,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazq-8sepxuy2j</odePageId>
+  <odePageId>page-mpebycks-o4j8vg3ou</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Time line Circuitos</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -578,7 +578,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazq-8sepxuy2j</odePageId>
+      <odePageId>page-mpebycks-o4j8vg3ou</odePageId>
       <odeBlockId>block-1778175917757-crquhla9f</odeBlockId>
       <blockName>Sitio web externo</blockName>
       <iconName></iconName>
@@ -607,7 +607,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazq-8sepxuy2j</odePageId>
+          <odePageId>page-mpebycks-o4j8vg3ou</odePageId>
           <odeBlockId>block-1778175917757-crquhla9f</odeBlockId>
           <odeIdeviceId>idevice-1778175917753-h0tegliim</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -634,7 +634,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+  <odePageId>page-mpebyckt-65d9nziyp</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Criterios de evaluación</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -670,7 +670,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+      <odePageId>page-mpebyckt-65d9nziyp</odePageId>
       <odeBlockId>block-1778571992380-z3jity1kg</odeBlockId>
       <blockName>Sitio web externo</blockName>
       <iconName></iconName>
@@ -699,7 +699,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+          <odePageId>page-mpebyckt-65d9nziyp</odePageId>
           <odeBlockId>block-1778571992380-z3jity1kg</odeBlockId>
           <odeIdeviceId>idevice-1778571992378-gsltidl95</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
@@ -724,7 +724,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+      <odePageId>page-mpebyckt-65d9nziyp</odePageId>
       <odeBlockId>block-1778575852228-ls9o4e89r</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -753,7 +753,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+          <odePageId>page-mpebyckt-65d9nziyp</odePageId>
           <odeBlockId>block-1778575852228-ls9o4e89r</odeBlockId>
           <odeIdeviceId>idevice-1778575852225-tdg199bk8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -782,7 +782,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazr-ln4vuhhdd</odePageId>
+  <odePageId>page-mpebycku-wjjak6een</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Instrumentos de evaluación</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -818,7 +818,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazr-ln4vuhhdd</odePageId>
+      <odePageId>page-mpebycku-wjjak6een</odePageId>
       <odeBlockId>block-1778580546263-s00nnnnbe</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -847,7 +847,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazr-ln4vuhhdd</odePageId>
+          <odePageId>page-mpebycku-wjjak6een</odePageId>
           <odeBlockId>block-1778580546263-s00nnnnbe</odeBlockId>
           <odeIdeviceId>idevice-1778580546259-hk0fh46xs</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -876,8 +876,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazs-9ggynz5vm</odePageId>
-  <odeParentPageId>page-mpe7uazr-ln4vuhhdd</odeParentPageId>
+  <odePageId>page-mpebyckv-ht9t83fue</odePageId>
+  <odeParentPageId>page-mpebycku-wjjak6een</odeParentPageId>
   <pageName>Rúbrica del trabajo práctico</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -912,7 +912,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazs-9ggynz5vm</odePageId>
+      <odePageId>page-mpebyckv-ht9t83fue</odePageId>
       <odeBlockId>block-1778582264277-szg8mp9sp</odeBlockId>
       <blockName>Rúbrica</blockName>
       <iconName></iconName>
@@ -941,7 +941,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazs-9ggynz5vm</odePageId>
+          <odePageId>page-mpebyckv-ht9t83fue</odePageId>
           <odeBlockId>block-1778582264277-szg8mp9sp</odeBlockId>
           <odeIdeviceId>idevice-1778573585095-z9uzz3zrf</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -970,8 +970,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazt-owgozqcsq</odePageId>
-  <odeParentPageId>page-mpe7uazr-ln4vuhhdd</odeParentPageId>
+  <odePageId>page-mpebyckw-uh4k8y6l0</odePageId>
+  <odeParentPageId>page-mpebycku-wjjak6een</odeParentPageId>
   <pageName>Prueba tipo test</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1006,7 +1006,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazt-owgozqcsq</odePageId>
+      <odePageId>page-mpebyckw-uh4k8y6l0</odePageId>
       <odeBlockId>block-1778582289743-sxtayzv2t</odeBlockId>
       <blockName>Test</blockName>
       <iconName></iconName>
@@ -1035,7 +1035,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazt-owgozqcsq</odePageId>
+          <odePageId>page-mpebyckw-uh4k8y6l0</odePageId>
           <odeBlockId>block-1778582289743-sxtayzv2t</odeBlockId>
           <odeIdeviceId>idevice-1778581712133-9dqo55dek</odeIdeviceId>
           <odeIdeviceTypeName>quick-questions</odeIdeviceTypeName>
@@ -1062,8 +1062,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazt-cy9xydl85</odePageId>
-  <odeParentPageId>page-mpe7uazr-ln4vuhhdd</odeParentPageId>
+  <odePageId>page-mpebyckx-6nqdc8mmr</odePageId>
+  <odeParentPageId>page-mpebycku-wjjak6een</odeParentPageId>
   <pageName>Rúbrica exposición oral</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1098,7 +1098,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazt-cy9xydl85</odePageId>
+      <odePageId>page-mpebyckx-6nqdc8mmr</odePageId>
       <odeBlockId>block-1779090597780-u4b6rfu8o</odeBlockId>
       <blockName>Rúbrica</blockName>
       <iconName></iconName>
@@ -1127,7 +1127,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazt-cy9xydl85</odePageId>
+          <odePageId>page-mpebyckx-6nqdc8mmr</odePageId>
           <odeBlockId>block-1779090597780-u4b6rfu8o</odeBlockId>
           <odeIdeviceId>idevice-1779090597779-3ws6omc4h</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -1154,7 +1154,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazu-g30txj6dn</odePageId>
+  <odePageId>page-mpebycky-qhs78qqbp</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -1190,7 +1190,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazu-g30txj6dn</odePageId>
+      <odePageId>page-mpebycky-qhs78qqbp</odePageId>
       <odeBlockId>block-1779094558809-yulef7qxg</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1219,7 +1219,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazu-g30txj6dn</odePageId>
+          <odePageId>page-mpebycky-qhs78qqbp</odePageId>
           <odeBlockId>block-1779094558809-yulef7qxg</odeBlockId>
           <odeIdeviceId>idevice-1779094558807-0uxq6ll4l</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1227,9 +1227,9 @@
     <p>Autor: Francisco Velázquez Muñoz</p>
 <p>Descripción: El proyecto se centra en el montaje práctico de circuitos eléctricos sencillos (serie, paralelo y mixto), así como en la comprensión de su funcionamiento y aplicaciones en la vida cotidiana.</p>
 <p>Licencia de uso: Creative Commons Reconocimiento - compartir igual 4.0</p>
-<p>Descarga del archivo editable:  <a href="{{context_path}}/content/resources/circuitos-serie-paralelo- (1).elpx" title="circuitos-serie-paralelo.elpx">circuitos-serie-paralelo.elpx</a></p>
+<p>Descarga del archivo editable:  <a href="{{context_path}}/content/resources/circuitos-serie-paralelo-.elpx" title="circuitos-serie-paralelo-.elpx">circuitos-serie-paralelo-.elpx</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094558807-0uxq6ll4l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autor: Francisco Velázquez Muñoz</p>\n<p>Descripción: El proyecto se centra en el montaje práctico de circuitos eléctricos sencillos (serie, paralelo y mixto), así como en la comprensión de su funcionamiento y aplicaciones en la vida cotidiana.</p>\n<p>Licencia de uso: Creative Commons Reconocimiento - compartir igual 4.0</p>\n<p>Descarga del archivo editable:  <a href=\"{{context_path}}/content/resources/circuitos-serie-paralelo- (1).elpx\" title=\"circuitos-serie-paralelo.elpx\">circuitos-serie-paralelo.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094558807-0uxq6ll4l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autor: Francisco Velázquez Muñoz</p>\n<p>Descripción: El proyecto se centra en el montaje práctico de circuitos eléctricos sencillos (serie, paralelo y mixto), así como en la comprensión de su funcionamiento y aplicaciones en la vida cotidiana.</p>\n<p>Licencia de uso: Creative Commons Reconocimiento - compartir igual 4.0</p>\n<p>Descarga del archivo editable:  <a href=\"{{context_path}}/content/resources/circuitos-serie-paralelo-.elpx\" title=\"circuitos-serie-paralelo-.elpx\">circuitos-serie-paralelo-.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1251,7 +1251,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpe7uazu-t6kpaesuz</odePageId>
+  <odePageId>page-mpebyckz-k3hec1mv5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -1287,7 +1287,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpe7uazu-t6kpaesuz</odePageId>
+      <odePageId>page-mpebyckz-k3hec1mv5</odePageId>
       <odeBlockId>block-1779098236126-cy3lnn47k</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1316,7 +1316,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpe7uazu-t6kpaesuz</odePageId>
+          <odePageId>page-mpebyckz-k3hec1mv5</odePageId>
           <odeBlockId>block-1779098236126-cy3lnn47k</odeBlockId>
           <odeIdeviceId>idevice-1779098236122-dhxbpnrwj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
