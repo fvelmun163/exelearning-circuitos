@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260520174925GXTOP3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260520174925BOMVOI</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Circuitos serie-paralelo </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>montaje y análisis de circuitos eléctricos básicos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Fco Velázquez Muñoz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto se centra en el montaje práctico de circuitos eléctricos sencillos (serie, paralelo y mixto), así como en la comprensión de su funcionamiento y aplicaciones en la vida cotidiana.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779290866254</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpe7uazk-0n1yng1po</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazk-0n1yng1po</odePageId>
+      <odeBlockId>block-1778153202712-y8to5cpfv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazk-0n1yng1po</odePageId>
+          <odeBlockId>block-1778153202712-y8to5cpfv</odeBlockId>
+          <odeIdeviceId>idevice-1778153202708-2us1zgtb8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título del proyecto:   <br /> “Manos a la obra: montaje y análisis de circuitos eléctricos básicos”</p>
+<p><br />Centro de interés o temática<br />El proyecto se centra en el montaje práctico de circuitos eléctricos sencillos (serie, paralelo y mixto), así como en la comprensión de su funcionamiento y aplicaciones en la vida cotidiana.</p>
+<p>Nivel al que va dirigido<br />3º de Educación Secundaria Obligatoria (ESO).</p>
+<p><br />Temporalización aproximada<br />5 sesiones de 55 minutos.</p>
+<p><br />Materia o materias implicadas<br />Principalmente la materia de Tecnología, con posibles conexiones con Física y Química (conceptos de electricidad como voltaje, intensidad y resistencia).</p>
+<p><br />Idioma<br />Castellano.</p>
+<p><br />Descripción general del aprendizaje<br />Con esta práctica se pretende que el alumnado aprenda a montar circuitos eléctricos básicos utilizando distintos componentes (pilas, bombillas, interruptores, resistencias, cables, etc.). Además, se busca que comprendan cómo circula la corriente eléctrica, las diferencias entre circuitos en serie y en paralelo, y cómo influyen estos en el funcionamiento de los dispositivos.</p>
+<p>A nivel más competencial, el alumnado trabajará habilidades como la resolución de problemas, el trabajo en equipo, la autonomía y el pensamiento práctico. También se fomentará la capacidad de analizar errores y buscar soluciones cuando el circuito no funcione correctamente.</p>
+<p><br />Justificación (basada en la reflexión previa)<br />Este proyecto está diseñado teniendo en cuenta la importancia de aprender a partir de la experiencia en el aula. Se parte de la idea de que los problemas que surgen durante el montaje de circuitos (fallos en conexiones, componentes mal colocados, etc.) no son algo negativo, sino una oportunidad de aprendizaje.</p>
+<p>Las decisiones tomadas, como plantear una actividad práctica y colaborativa, responden a la experiencia de que este tipo de metodologías suelen funcionar mejor y motivar más al alumnado que las explicaciones puramente teóricas. Además, se busca evitar errores detectados en otras ocasiones, como no adaptar bien las actividades a todos los niveles o no prever dificultades técnicas.</p>
+<p>También se tiene en cuenta la diversidad del alumnado: algunos avanzarán más rápido y otros necesitarán más apoyo, por lo que se plantean tareas abiertas y flexibles. La temporalización permite margen para corregir errores y reforzar aprendizajes.</p>
+<p>Por último, se incorporan aprendizajes extraídos tanto de la propia experiencia docente como de la de otros compañeros, seleccionando aquellas estrategias que han demostrado ser útiles (trabajo en grupo, aprendizaje basado en la práctica) y evitando aplicar de forma rígida actividades que no se adapten al contexto del grupo.</p>
+<p>En conjunto, el proyecto busca no solo que el alumnado aprenda contenidos sobre electricidad, sino también que desarrolle una actitud activa, reflexiva y autónoma ante el aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778153202708-2us1zgtb8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título del proyecto:   <br /> “Manos a la obra: montaje y análisis de circuitos eléctricos básicos”</p>\n<p><br />Centro de interés o temática<br />El proyecto se centra en el montaje práctico de circuitos eléctricos sencillos (serie, paralelo y mixto), así como en la comprensión de su funcionamiento y aplicaciones en la vida cotidiana.</p>\n<p>Nivel al que va dirigido<br />3º de Educación Secundaria Obligatoria (ESO).</p>\n<p><br />Temporalización aproximada<br />5 sesiones de 55 minutos.</p>\n<p><br />Materia o materias implicadas<br />Principalmente la materia de Tecnología, con posibles conexiones con Física y Química (conceptos de electricidad como voltaje, intensidad y resistencia).</p>\n<p><br />Idioma<br />Castellano.</p>\n<p><br />Descripción general del aprendizaje<br />Con esta práctica se pretende que el alumnado aprenda a montar circuitos eléctricos básicos utilizando distintos componentes (pilas, bombillas, interruptores, resistencias, cables, etc.). Además, se busca que comprendan cómo circula la corriente eléctrica, las diferencias entre circuitos en serie y en paralelo, y cómo influyen estos en el funcionamiento de los dispositivos.</p>\n<p>A nivel más competencial, el alumnado trabajará habilidades como la resolución de problemas, el trabajo en equipo, la autonomía y el pensamiento práctico. También se fomentará la capacidad de analizar errores y buscar soluciones cuando el circuito no funcione correctamente.</p>\n<p><br />Justificación (basada en la reflexión previa)<br />Este proyecto está diseñado teniendo en cuenta la importancia de aprender a partir de la experiencia en el aula. Se parte de la idea de que los problemas que surgen durante el montaje de circuitos (fallos en conexiones, componentes mal colocados, etc.) no son algo negativo, sino una oportunidad de aprendizaje.</p>\n<p>Las decisiones tomadas, como plantear una actividad práctica y colaborativa, responden a la experiencia de que este tipo de metodologías suelen funcionar mejor y motivar más al alumnado que las explicaciones puramente teóricas. Además, se busca evitar errores detectados en otras ocasiones, como no adaptar bien las actividades a todos los niveles o no prever dificultades técnicas.</p>\n<p>También se tiene en cuenta la diversidad del alumnado: algunos avanzarán más rápido y otros necesitarán más apoyo, por lo que se plantean tareas abiertas y flexibles. La temporalización permite margen para corregir errores y reforzar aprendizajes.</p>\n<p>Por último, se incorporan aprendizajes extraídos tanto de la propia experiencia docente como de la de otros compañeros, seleccionando aquellas estrategias que han demostrado ser útiles (trabajo en grupo, aprendizaje basado en la práctica) y evitando aplicar de forma rígida actividades que no se adapten al contexto del grupo.</p>\n<p>En conjunto, el proyecto busca no solo que el alumnado aprenda contenidos sobre electricidad, sino también que desarrolle una actitud activa, reflexiva y autónoma ante el aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazn-1s9cy0y1f</odePageId>
+  <odeParentPageId>page-mpe7uazk-0n1yng1po</odeParentPageId>
+  <pageName>Licencias y seguridad</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazn-1s9cy0y1f</odePageId>
+      <odeBlockId>block-1778494910682-reuv7kupp</odeBlockId>
+      <blockName>Abrir el siguiente enlace</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazn-1s9cy0y1f</odePageId>
+          <odeBlockId>block-1778494910682-reuv7kupp</odeBlockId>
+          <odeIdeviceId>idevice-1778494910679-8498q2w4w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/l6w6pyrlwllrdbi" title="">Licencias y seguridad</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778494910679-8498q2w4w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/l6w6pyrlwllrdbi\" title=\"\">Licencias y seguridad</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazo-e31wg9drr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazo-e31wg9drr</odePageId>
+      <odeBlockId>block-1778495280117-ns7o4qkeu</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazo-e31wg9drr</odePageId>
+          <odeBlockId>block-1778495280117-ns7o4qkeu</odeBlockId>
+          <odeIdeviceId>idevice-1778495280114-pg28o5iuv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong> “Circuitos interactivos: explica tu montaje con Genially”</strong></span><br />Descripción de la actividad</p>
+<p>Dentro del proyecto “Manos a la obra: montaje y análisis de circuitos eléctricos básicos”, el alumnado, organizado en pequeños grupos, deberá crear una presentación interactiva con Genially en la que expliquen el circuito eléctrico que han diseñado y montado en el aula.</p>
+<p>1. Justificación de la herramienta (Genially)</p>
+<p>Se utiliza Genially porque permite al alumnado explicar lo aprendido de forma visual e interactiva, ayudando a organizar la información y comprender mejor los circuitos. Además, favorece el desarrollo de la competencia digital y la creatividad.</p>
+<p>2. Elección del nivel de competencia digital y edad del alumnado (3º ESO)</p>
+<p>Es adecuada porque el alumnado tiene un nivel digital suficiente y Genially es intuitivo, visual y motivador. Permite adaptarse a distintos niveles, desde tareas básicas hasta otras más complejas, favoreciendo la participación de todo el grupo.</p>
+<p>3. Elección según el contexto y la disponibilidad de dispositivos en el Centro</p>
+<p>Es una herramienta online, gratuita y sin necesidad de instalación, lo que facilita su uso en el aula. Además, permite trabajar en grupo con pocos dispositivos (ya sean ordenadores de aula, portátiles o tablets), adaptándose bien a la realidad de muchos centros educativos, y se facilita la continuidad del trabajo fuera del aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778495280114-pg28o5iuv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong> “Circuitos interactivos: explica tu montaje con Genially”</strong></span><br />Descripción de la actividad</p>\n<p>Dentro del proyecto “Manos a la obra: montaje y análisis de circuitos eléctricos básicos”, el alumnado, organizado en pequeños grupos, deberá crear una presentación interactiva con Genially en la que expliquen el circuito eléctrico que han diseñado y montado en el aula.</p>\n<p>1. Justificación de la herramienta (Genially)</p>\n<p>Se utiliza Genially porque permite al alumnado explicar lo aprendido de forma visual e interactiva, ayudando a organizar la información y comprender mejor los circuitos. Además, favorece el desarrollo de la competencia digital y la creatividad.</p>\n<p>2. Elección del nivel de competencia digital y edad del alumnado (3º ESO)</p>\n<p>Es adecuada porque el alumnado tiene un nivel digital suficiente y Genially es intuitivo, visual y motivador. Permite adaptarse a distintos niveles, desde tareas básicas hasta otras más complejas, favoreciendo la participación de todo el grupo.</p>\n<p>3. Elección según el contexto y la disponibilidad de dispositivos en el Centro</p>\n<p>Es una herramienta online, gratuita y sin necesidad de instalación, lo que facilita su uso en el aula. Además, permite trabajar en grupo con pocos dispositivos (ya sean ordenadores de aula, portátiles o tablets), adaptándose bien a la realidad de muchos centros educativos, y se facilita la continuidad del trabajo fuera del aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+      <odeBlockId>block-1778495859800-77ew6xsob</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+          <odeBlockId>block-1778495859800-77ew6xsob</odeBlockId>
+          <odeIdeviceId>idevice-1778495859792-nj2uhapy7</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/fvelmun163/montaje-y-an-lisis-de-circuitos-el-ctricos-b-sicos-zqqev12pzmjv5bg7" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+      <odeBlockId>block-1778496154132-ct80chbrf</odeBlockId>
+      <blockName>Symbaloo FVM</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazp-y98w56tov</odePageId>
+          <odeBlockId>block-1778496154132-ct80chbrf</odeBlockId>
+          <odeIdeviceId>idevice-1778496154129-johsmqhde</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/home/mix/13eOcXM1bS" title="Symbaloo FVM">Symbaloo FVM</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778496154129-johsmqhde","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/home/mix/13eOcXM1bS\" title=\"Symbaloo FVM\">Symbaloo FVM</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazq-8sepxuy2j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Time line Circuitos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Time line Circuitos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Time line Circuitos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazq-8sepxuy2j</odePageId>
+      <odeBlockId>block-1778175917757-crquhla9f</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazq-8sepxuy2j</odePageId>
+          <odeBlockId>block-1778175917757-crquhla9f</odeBlockId>
+          <odeIdeviceId>idevice-1778175917753-h0tegliim</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/69f861487a1dd29c4a25d4a5" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+      <odeBlockId>block-1778571992380-z3jity1kg</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+          <odeBlockId>block-1778571992380-z3jity1kg</odeBlockId>
+          <odeIdeviceId>idevice-1778571992378-gsltidl95</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/fvelmun163/criterios-e-instrumentos-de-evaluacion-fs4wyi63uz51d8on" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+      <odeBlockId>block-1778575852228-ls9o4e89r</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazq-5m8dtwhaa</odePageId>
+          <odeBlockId>block-1778575852228-ls9o4e89r</odeBlockId>
+          <odeIdeviceId>idevice-1778575852225-tdg199bk8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778575852225-tdg199bk8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazr-ln4vuhhdd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazr-ln4vuhhdd</odePageId>
+      <odeBlockId>block-1778580546263-s00nnnnbe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazr-ln4vuhhdd</odePageId>
+          <odeBlockId>block-1778580546263-s00nnnnbe</odeBlockId>
+          <odeIdeviceId>idevice-1778580546259-hk0fh46xs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la evaluación del alumnado en la actividad de montaje y análisis de circuitos eléctricos, se emplearán tres instrumentos de evaluación que permitirán valorar tanto el proceso como el resultado del aprendizaje. A continuación, se describen:</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778580546259-hk0fh46xs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la evaluación del alumnado en la actividad de montaje y análisis de circuitos eléctricos, se emplearán tres instrumentos de evaluación que permitirán valorar tanto el proceso como el resultado del aprendizaje. A continuación, se describen:</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazs-9ggynz5vm</odePageId>
+  <odeParentPageId>page-mpe7uazr-ln4vuhhdd</odeParentPageId>
+  <pageName>Rúbrica del trabajo práctico</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica del trabajo práctico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica del trabajo práctico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazs-9ggynz5vm</odePageId>
+      <odeBlockId>block-1778582264277-szg8mp9sp</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazs-9ggynz5vm</odePageId>
+          <odeBlockId>block-1778582264277-szg8mp9sp</odeBlockId>
+          <odeIdeviceId>idevice-1778573585095-z9uzz3zrf</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Con este instrumento, durante las sesiones prácticas, el docente llevará a cabo una observación directa, registrando evidencias del desempeño del alumnado durante la construcción de circuitos en serie y en paralelo, así como en la toma de medidas con el multímetro.</p>
+<p>La rúbrica permitirá evaluar aspectos como:</p>
+<p>Correcto montaje del circuito siguiendo el esquema.<br />Uso adecuado de herramientas e instrumentos.<br />Cumplimiento de normas de seguridad.<br />Trabajo en equipo y participación.<br />Capacidad para resolver problemas técnicos.<br /></p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778573585095-z9uzz3zrf%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20Montaje%20de%20Circuitos%22%2C%22categories%22%3A%5B%22Montaje%20del%20circuito%22%2C%22Uso%20de%20herramientas%20e%20instrumentos%22%2C%22Normas%20de%20seguridad%22%2C%22Trabajo%20en%20equipo%20y%20participaci%F3n%22%2C%22Resoluci%F3n%20de%20problemas%20t%E9cnicos%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22B%E1sico%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Monta%20el%20circuito%20correctamente%20y%20de%20forma%20aut%F3noma%20siguiendo%20el%20esquema%20sin%20errores%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Monta%20el%20circuito%20con%20peque%F1os%20errores%20que%20corrige%20con%20poca%20ayuda%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Monta%20el%20circuito%20con%20varios%20errores%20y%20necesita%20ayuda%20frecuente%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20logra%20montar%20el%20circuito%20o%20presenta%20errores%20graves%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20correctamente%20todas%20las%20herramientas%20%28mult%EDmetro%2C%20cables%2C%20etc.%29%20con%20precisi%F3n%20y%20seguridad%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Utiliza%20adecuadamente%20las%20herramientas%20con%20alguna%20duda%20puntual%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presenta%20dificultades%20en%20el%20uso%20de%20herramientas%20y%20comete%20errores%20frecuentes%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Usa%20incorrectamente%20las%20herramientas%20o%20no%20sabe%20utilizarlas%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Cumple%20todas%20las%20normas%20de%20seguridad%20de%20forma%20aut%F3noma%20y%20constante%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Cumple%20las%20normas%20en%20general%2C%20con%20alg%FAn%20descuido%20puntual%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Cumple%20las%20normas%20de%20forma%20irregular%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20respeta%20las%20normas%20de%20seguridad%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Participa%20activamente%2C%20colabora%20y%20respeta%20a%20sus%20compa%F1eros%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Participa%20de%20forma%20adecuada%20en%20el%20grupo%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Participa%20poco%20o%20de%20forma%20irregular%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20participa%20o%20dificulta%20el%20trabajo%20del%20grupo%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Identifica%20y%20resuelve%20problemas%20de%20forma%20aut%F3noma%20y%20eficaz%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Resuelve%20problemas%20con%20poca%20ayuda%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Necesita%20ayuda%20frecuente%20para%20resolver%20problemas%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20es%20capaz%20de%20resolver%20problemas%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20Montaje%20de%20Circuitos%22%2C%22categories%22%3A%5B%22Montaje%20del%20circuito%22%2C%22Uso%20de%20herramientas%20e%20instrumentos%22%2C%22Normas%20de%20seguridad%22%2C%22Trabajo%20en%20equipo%20y%20participaci%F3n%22%2C%22Resoluci%F3n%20de%20problemas%20t%E9cnicos%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22B%E1sico%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Monta%20el%20circuito%20correctamente%20y%20de%20forma%20aut%F3noma%20siguiendo%20el%20esquema%20sin%20errores%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Monta%20el%20circuito%20con%20peque%F1os%20errores%20que%20corrige%20con%20poca%20ayuda%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Monta%20el%20circuito%20con%20varios%20errores%20y%20necesita%20ayuda%20frecuente%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20logra%20montar%20el%20circuito%20o%20presenta%20errores%20graves%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20correctamente%20todas%20las%20herramientas%20%28mult%EDmetro%2C%20cables%2C%20etc.%29%20con%20precisi%F3n%20y%20seguridad%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Utiliza%20adecuadamente%20las%20herramientas%20con%20alguna%20duda%20puntual%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presenta%20dificultades%20en%20el%20uso%20de%20herramientas%20y%20comete%20errores%20frecuentes%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Usa%20incorrectamente%20las%20herramientas%20o%20no%20sabe%20utilizarlas%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Cumple%20todas%20las%20normas%20de%20seguridad%20de%20forma%20aut%F3noma%20y%20constante%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Cumple%20las%20normas%20en%20general%2C%20con%20alg%FAn%20descuido%20puntual%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Cumple%20las%20normas%20de%20forma%20irregular%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20respeta%20las%20normas%20de%20seguridad%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Participa%20activamente%2C%20colabora%20y%20respeta%20a%20sus%20compa%F1eros%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Participa%20de%20forma%20adecuada%20en%20el%20grupo%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Participa%20poco%20o%20de%20forma%20irregular%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20participa%20o%20dificulta%20el%20trabajo%20del%20grupo%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Identifica%20y%20resuelve%20problemas%20de%20forma%20aut%F3noma%20y%20eficaz%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Resuelve%20problemas%20con%20poca%20ayuda%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Necesita%20ayuda%20frecuente%20para%20resolver%20problemas%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20es%20capaz%20de%20resolver%20problemas%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECon%20este%20instrumento%2C%20durante%20las%20sesiones%20pr%E1cticas%2C%20el%20docente%20llevar%E1%20a%20cabo%20una%20observaci%F3n%20directa%2C%20registrando%20evidencias%20del%20desempe%F1o%20del%20alumnado%20durante%20la%20construcci%F3n%20de%20circuitos%20en%20serie%20y%20en%20paralelo%2C%20as%ED%20como%20en%20la%20toma%20de%20medidas%20con%20el%20mult%EDmetro.%3C/p%3E%5Cn%3Cp%3ELa%20r%FAbrica%20permitir%E1%20evaluar%20aspectos%20como%3A%3C/p%3E%5Cn%3Cp%3ECorrecto%20montaje%20del%20circuito%20siguiendo%20el%20esquema.%3Cbr%20/%3EUso%20adecuado%20de%20herramientas%20e%20instrumentos.%3Cbr%20/%3ECumplimiento%20de%20normas%20de%20seguridad.%3Cbr%20/%3ETrabajo%20en%20equipo%20y%20participaci%F3n.%3Cbr%20/%3ECapacidad%20para%20resolver%20problemas%20t%E9cnicos.%3Cbr%20/%3E%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22author%22%3A%22Fco%20Vel%E1zquez%20Mu%F1oz%22%2C%22license%22%3A%22CC-BY%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship sr-av"><span class="author">Fco Velázquez Muñoz</span>. <span class="title"><em>Rúbrica Montaje de Circuitos</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY">CC BY</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECon%20este%20instrumento%2C%20durante%20las%20sesiones%20pr%E1cticas%2C%20el%20docente%20llevar%E1%20a%20cabo%20una%20observaci%F3n%20directa%2C%20registrando%20evidencias%20del%20desempe%F1o%20del%20alumnado%20durante%20la%20construcci%F3n%20de%20circuitos%20en%20serie%20y%20en%20paralelo%2C%20as%ED%20como%20en%20la%20toma%20de%20medidas%20con%20el%20mult%EDmetro.%3C/p%3E%0A%3Cp%3ELa%20r%FAbrica%20permitir%E1%20evaluar%20aspectos%20como%3A%3C/p%3E%0A%3Cp%3ECorrecto%20montaje%20del%20circuito%20siguiendo%20el%20esquema.%3Cbr%20/%3EUso%20adecuado%20de%20herramientas%20e%20instrumentos.%3Cbr%20/%3ECumplimiento%20de%20normas%20de%20seguridad.%3Cbr%20/%3ETrabajo%20en%20equipo%20y%20participaci%F3n.%3Cbr%20/%3ECapacidad%20para%20resolver%20problemas%20t%E9cnicos.%3Cbr%20/%3E%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazt-owgozqcsq</odePageId>
+  <odeParentPageId>page-mpe7uazr-ln4vuhhdd</odeParentPageId>
+  <pageName>Prueba tipo test</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Prueba tipo test</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Prueba tipo test</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazt-owgozqcsq</odePageId>
+      <odeBlockId>block-1778582289743-sxtayzv2t</odeBlockId>
+      <blockName>Test</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazt-owgozqcsq</odePageId>
+          <odeBlockId>block-1778582289743-sxtayzv2t</odeBlockId>
+          <odeIdeviceId>idevice-1778581712133-9dqo55dek</odeIdeviceId>
+          <odeIdeviceTypeName>quick-questions</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="quext-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778581712133-9dqo55dek" data-evaluationb="false" data-evaluationid="7d15a9c6-1291-4b2d-bbcf-eda1c560fa3e"></div><div class="quext-instructions QXTP-instructions"><p>Elija la respuesta correcta</p></div><div class="quext-version js-hidden">2</div><div class="quext-feedback-game"></div><div class="quext-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C3%E7%D7%EA%E6%B0%BE%B0%F7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%F6%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E1%E6%F3%E0%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%D7%FE%FB%F8%F3%B7%A0%A2%FE%F3%B7%A0%A2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B7%A0%A2%F1%FD%E0%E0%F7%F1%E6%F3%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%D7%FE%FB%F8%F3%B2%FE%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%FC%E1%E5%F7%E0%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%A3%BC%B2%D7%FC%B2%E7%FC%B2%F1%FB%E0%F1%E7%FB%E6%FD%B2%F7%FC%B2%E1%F7%E0%FB%F7%BE%B2%FE%F3%B2%F1%FD%E0%E0%FB%F7%FC%E6%F7%A8%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%C1%F7%B2%F6%FB%E4%FB%F6%F7%B2%F7%FC%B2%E4%F3%E0%FB%FD%E1%B2%F1%F3%FF%FB%FC%FD%E1%B0%BE%B0%F0%BB%B2%D7%E1%B2%F6%FB%F4%F7%E0%F7%FC%E6%F7%B2%F7%FC%B2%F1%F3%F6%F3%B2%F1%FD%FF%E2%FD%FC%F7%FC%E6%F7%B0%BE%B0%F1%BB%B2%D7%E1%B2%FE%F3%B2%FF%FB%E1%FF%F3%B2%F7%FC%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F7%FE%F7%FF%F7%FC%E6%FD%E1%B0%BE%B0%F6%BB%B2%DC%FD%B2%F1%FB%E0%F1%E7%FE%F3%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%A0%BC%B2%D7%FC%B2%E7%FC%B2%F1%FB%E0%F1%E7%FB%E6%FD%B2%F7%FC%B2%E2%F3%E0%F3%FE%F7%FE%FD%A8%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%C1%FD%FE%FD%B2%FA%F3%EB%B2%E7%FC%B2%F1%F3%FF%FB%FC%FD%B2%E2%F3%E0%F3%B2%FE%F3%B2%F1%FD%E0%E0%FB%F7%FC%E6%F7%B0%BE%B0%F0%BB%B2%DE%F3%B2%F1%FD%E0%E0%FB%F7%FC%E6%F7%B2%E1%F7%B2%F6%FB%E4%FB%F6%F7%B2%F7%FC%B2%E4%F3%E0%FB%FD%E1%B2%F1%F3%FF%FB%FC%FD%E1%B0%BE%B0%F1%BB%B2%DC%FD%B2%FA%F3%EB%B2%F6%FB%F4%F7%E0%F7%FC%F1%FB%F3%B2%F6%F7%B2%E2%FD%E6%F7%FC%F1%FB%F3%FE%B0%BE%B0%F6%BB%B2%DE%FD%E1%B2%F7%FE%F7%FF%F7%FC%E6%FD%E1%B2%FC%FD%B2%F4%E7%FC%F1%FB%FD%FC%F3%FC%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%FB%FC%F6%F7%E2%F7%FC%F6%FB%F7%FC%E6%F7%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%A1%BC%B2%B2-%C3%E7%7B%B2%FD%F1%E7%E0%E0%F7%B2%E1%FB%B2%E1%F7%B2%F4%E7%FC%F6%F7%B2%E7%FC%F3%B2%F0%FD%FF%F0%FB%FE%FE%F3%B2%F7%FC%B2%E7%FC%B2%F1%FB%E0%F1%E7%FB%E6%FD%B2%F7%FC%B2%E1%F7%E0%FB%F7%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%C1%FB%F5%E7%F7%FC%B2%F4%E7%FC%F1%FB%FD%FC%F3%FC%F6%FD%B2%FE%F3%E1%B2%F6%F7%FFs%E1%B0%BE%B0%F0%BB%B2%C1%F7%B2%F3%E2%F3%F5%F3%B2%E6%FD%F6%FD%B2%F7%FE%B2%F1%FB%E0%F1%E7%FB%E6%FD%B0%BE%B0%F1%BB%B2%D3%E7%FF%F7%FC%E6%F3%B2%FE%F3%B2%FB%FC%E6%F7%FC%E1%FB%F6%F3%F6%B0%BE%B0%F6%BB%B2%DC%FD%B2%FD%F1%E7%E0%E0%F7%B2%FC%F3%F6%F3%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%A6%BC%B2-%C3%E7%7B%B2%FD%F1%E7%E0%E0%F7%B2%E1%FB%B2%E1%F7%B2%F4%E7%FC%F6%F7%B2%E7%FC%F3%B2%F0%FD%FF%F0%FB%FE%FE%F3%B2%F7%FC%B2%E7%FC%B2%F1%FB%E0%F1%E7%FB%E6%FD%B2%F7%FC%B2%E2%F3%E0%F3%FE%F7%FE%FD%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%C1%F7%B2%F3%E2%F3%F5%F3%FC%B2%E6%FD%F6%F3%E1%B0%BE%B0%F0%BB%B2%D3%E7%FF%F7%FC%E6%F3%B2%FE%F3%B2%E6%F7%FC%E1%FBa%FC%B0%BE%B0%F1%BB%B2%C1%FD%FE%FD%B2%E1%F7%B2%F3%E2%F3%F5%F3%B2%F7%E1%F3%B2%F0%FD%FF%F0%FB%FE%FE%F3%B0%BE%B0%F6%BB%B2%D7%FE%B2%F1%FB%E0%F1%E7%FB%E6%FD%B2%F6%F7%F8%F3%B2%F6%F7%B2%F4%E7%FC%F1%FB%FD%FC%F3%E0%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%A7%BC%B2%D7%FE%B2%FF%E7%FE%E6%7F%FF%F7%E6%E0%FD%B2%E1%FB%E0%E4%F7%B2%E2%F3%E0%F3%A8%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%D5%F7%FC%F7%E0%F3%E0%B2%F7%FE%F7%F1%E6%E0%FB%F1%FB%F6%F3%F6%B0%BE%B0%F0%BB%B2%DF%F7%F6%FB%E0%B2%FF%F3%F5%FC%FB%E6%E7%F6%F7%E1%B2%F7%FE%7B%F1%E6%E0%FB%F1%F3%E1%B0%BE%B0%F1%BB%B2%D1%FD%FC%F7%F1%E6%F3%E0%B2%F1%FB%E0%F1%E7%FB%E6%FD%E1%B0%BE%B0%F6%BB%B2%D3%E7%FF%F7%FC%E6%F3%E0%B2%FE%F3%B2%F1%FD%E0%E0%FB%F7%FC%E6%F7%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%A4%BC%B2%C2%F3%E0%F3%B2%FF%F7%F6%FB%E0%B2%FE%F3%B2%FB%FC%E6%F7%FC%E1%FB%F6%F3%F6%B2%F1%FD%FC%B2%F7%FE%B2%FF%E7%FE%E6%7F%FF%F7%E6%E0%FD%BE%B2%7B%E1%E6%F7%B2%E1%F7%B2%F1%FD%FC%F7%F1%E6%F3%A8%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%D7%FC%B2%E2%F3%E0%F3%FE%F7%FE%FD%B0%BE%B0%F0%BB%B2%D7%FC%B2%E1%F7%E0%FB%F7%B0%BE%B0%F1%BB%B2%D4%E7%F7%E0%F3%B2%F6%F7%FE%B2%F1%FB%E0%F1%E7%FB%E6%FD%B0%BE%B0%F6%BB%B2%DC%FD%B2%F7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F1%FD%FC%F7%F1%E6%F3%E0%FE%FD%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%A5%BC%B2-%D1%E7s%FE%B2%F7%E1%B2%E7%FC%F3%B2%FC%FD%E0%FF%F3%B2%F0s%E1%FB%F1%F3%B2%F6%F7%B2%E1%F7%F5%E7%E0%FB%F6%F3%F6%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%C6%E0%F3%F0%F3%F8%F3%E0%B2%F1%FD%FC%B2%FE%F3%E1%B2%FF%F3%FC%FD%E1%B2%FF%FD%F8%F3%F6%F3%E1%B0%BE%B0%F0%BB%B2%DF%F3%FC%FB%E2%E7%FE%F3%E0%B2%F1%F3%F0%FE%F7%E1%B2%E1%FB%FC%B2%F1%E7%FB%F6%F3%F6%FD%B0%BE%B0%F1%BB%B2%D1%FD%FF%E2%E0%FD%F0%F3%E0%B2%F1%FD%FC%F7%EA%FB%FD%FC%F7%E1%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F7%FC%F1%F7%FC%F6%F7%E0%B0%BE%B0%F6%BB%B2%C6%FD%F1%F3%E0%B2%F6%FB%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%FE%FD%E1%B2%E2%FD%FE%FD%E1%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%AA%BC%B2%C7%FC%B2%F7%E1%E3%E7%F7%FF%F3%B2%F7%FE%7B%F1%E6%E0%FB%F1%FD%B2%E1%FB%E0%E4%F7%B2%E2%F3%E0%F3%A8%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%D6%F7%F1%FD%E0%F3%E0%B2%F7%FE%B2%E6%E0%F3%F0%F3%F8%FD%B0%BE%B0%F0%BB%B2%C0%F7%E2%E0%F7%E1%F7%FC%E6%F3%E0%B2%E7%FC%B2%F1%FB%E0%F1%E7%FB%E6%FD%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F1%FE%F3%E0%F3%B0%BE%B0%F1%BB%B2%C1%E7%E1%E6%FB%E6%E7%FB%E0%B2%F7%FE%B2%FF%FD%FC%E6%F3%F8%F7%B0%BE%B0%F6%BB%B2%DF%F7%F6%FB%E0%B2%FE%F3%B2%F1%FD%E0%E0%FB%F7%FC%E6%F7%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%AB%BC%B2-%C3%E7%7B%B2%F7%FE%F7%FF%F7%FC%E6%FD%B2%F1%FD%FC%E6%E0%FD%FE%F3%B2%F7%FE%B2%E2%F3%E1%FD%B2%F6%F7%B2%F1%FD%E0%E0%FB%F7%FC%E6%F7%B2%F7%FC%B2%E7%FC%B2%F1%FB%E0%F1%E7%FB%E6%FD%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%DE%F3%B2%F0%FD%FF%F0%FB%FE%FE%F3%B0%BE%B0%F0%BB%B2%D7%FE%B2%F1%F3%F0%FE%F7%B0%BE%B0%F1%BB%B2%D7%FE%B2%FB%FC%E6%F7%E0%E0%E7%E2%E6%FD%E0%B0%BE%B0%F6%BB%B2%DE%F3%B2%E2%FB%FE%F3%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%A3%A2%BC%B2%C1%FB%B2%E7%FC%B2%F1%FB%E0%F1%E7%FB%E6%FD%B2%FC%FD%B2%F4%E7%FC%F1%FB%FD%FC%F3%BE%B2%FE%FD%B2%E2%E0%FB%FF%F7%E0%FD%B2%E3%E7%F7%B2%F6%F7%F0%F7%FF%FD%E1%B2%FA%F3%F1%F7%E0%B2%F7%E1%A8%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%F3%BB%B2%D3%F0%F3%FC%F6%FD%FC%F3%E0%B2%FE%F3%B2%E6%F3%E0%F7%F3%B0%BE%B0%F0%BB%B2%D1%F3%FF%F0%FB%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%FD%FF%E2%FD%FC%F7%FC%E6%F7%E1%B0%BE%B0%F1%BB%B2%C0%F7%E4%FB%E1%F3%E0%B2%FE%F3%E1%B2%F1%FD%FC%F7%EA%FB%FD%FC%F7%E1%B0%BE%B0%F6%BB%B2%D6%F7%E1%F1%FD%FC%F7%F1%E6%F3%E0%B2%E6%FD%F6%FD%B2%E1%FB%FC%B2%F1%FD%FF%E2%E0%FD%F0%F3%E0%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A5%F6%A3%A7%F3%AB%F1%A4%BF%A3%A0%AB%A3%BF%A6%F0%A0%F6%BF%F0%F0%F1%F4%BF%F7%F6%F3%A3%F1%A7%A4%A2%F4%F3%A1%F7%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A3%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A7%AA%A3%A5%A3%A0%A3%A1%A1%BF%AB%F6%E3%FD%A7%A7%F6%F7%F9%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%E2%FD%E0%B2%E2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C4%FB%F6%F7%FD%DB%FC%E6%E0%FD%B0%A8%B0%C4%7F%F6%F7%FD%B2%F6%F7%B2%FB%FC%E6%E0%FD%F6%E7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DD%E2%E6%FB%FD%FC%B0%A8%B0%DD%E2%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%E0s%B2%FF%E7%EB%B2h%E6%FB%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%BC%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%E1%B2%E0s%E2%FB%F6%F3%E1%B0%EF%EF</div><div class="quext-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazt-cy9xydl85</odePageId>
+  <odeParentPageId>page-mpe7uazr-ln4vuhhdd</odeParentPageId>
+  <pageName>Rúbrica exposición oral</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica exposición oral</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica exposición oral</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazt-cy9xydl85</odePageId>
+      <odeBlockId>block-1779090597780-u4b6rfu8o</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazt-cy9xydl85</odePageId>
+          <odeBlockId>block-1779090597780-u4b6rfu8o</odeBlockId>
+          <odeIdeviceId>idevice-1779090597779-3ws6omc4h</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1779090597779-3ws6omc4h%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20de%20los%20contenidos%22%2C%22Uso%20del%20lenguaje%20t%E9cnico%20y%20adecuado%22%2C%22Claridad%20en%20la%20exposici%F3n%22%2C%22Expresi%F3n%20oral%22%2C%22Uso%20de%20recursos%20digitales%20y%20de%20apoyo%22%2C%22Trabajo%20en%20equipo%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22B%E1sico%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22%20Explica%20con%20claridad%20el%20circuito%2C%20diferencias%20serie/paralelo%20y%20resultados%20sin%20errores%20%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Explica%20correctamente%20con%20alg%FAn%20error%20menor%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Explicaci%F3n%20incompleta%20o%20con%20varios%20errores%20%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20comprende%20ni%20explica%20los%20contenidos%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20vocabulario%20t%E9cnico%20preciso%20y%20adecuado%20en%20todo%20momento%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Usa%20vocabulario%20t%E9cnico%20con%20algunos%20fallos%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Usa%20poco%20vocabulario%20t%E9cnico%20o%20de%20forma%20incorrecta%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20utiliza%20lenguaje%20t%E9cnico%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22DescriPresentaci%F3n%20muy%20clara%2C%20estructurada%20y%20f%E1cil%20de%20seguir%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Presentaci%F3n%20clara%20con%20alguna%20falta%20de%20organizaci%F3n%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presentaci%F3n%20poco%20clara%20o%20desordenada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Presentaci%F3n%20confusa%20e%20incoherente%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Habla%20con%20fluidez%2C%20buena%20pronunciaci%F3n%20y%20seguridad%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Se%20expresa%20adecuadamente%20con%20algunas%20dudas%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Dificultades%20de%20expresi%F3n%20o%20lectura%20excesiva%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20se%20expresa%20con%20claridad%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20recursos%20visuales%20muy%20adecuados%2C%20claros%20y%20bien%20integrados%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Recursos%20adecuados%20aunque%20mejorables%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Recursos%20poco%20claros%20o%20mal%20utilizados%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20utiliza%20recursos%20o%20son%20inadecuados%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todos%20los%20miembros%20participan%20de%20forma%20equilibrada%20y%20coordinada%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Participaci%F3n%20mayoritaria%20del%20grupo%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Participaci%F3n%20desigual%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Participa%20solo%20una%20persona%20o%20hay%20descoordinaci%F3n%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20de%20los%20contenidos%22%2C%22Uso%20del%20lenguaje%20t%E9cnico%20y%20adecuado%22%2C%22Claridad%20en%20la%20exposici%F3n%22%2C%22Expresi%F3n%20oral%22%2C%22Uso%20de%20recursos%20digitales%20y%20de%20apoyo%22%2C%22Trabajo%20en%20equipo%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Adecuado%22%2C%22B%E1sico%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22%20Explica%20con%20claridad%20el%20circuito%2C%20diferencias%20serie/paralelo%20y%20resultados%20sin%20errores%20%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Explica%20correctamente%20con%20alg%FAn%20error%20menor%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Explicaci%F3n%20incompleta%20o%20con%20varios%20errores%20%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20comprende%20ni%20explica%20los%20contenidos%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20vocabulario%20t%E9cnico%20preciso%20y%20adecuado%20en%20todo%20momento%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Usa%20vocabulario%20t%E9cnico%20con%20algunos%20fallos%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Usa%20poco%20vocabulario%20t%E9cnico%20o%20de%20forma%20incorrecta%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20utiliza%20lenguaje%20t%E9cnico%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22DescriPresentaci%F3n%20muy%20clara%2C%20estructurada%20y%20f%E1cil%20de%20seguir%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Presentaci%F3n%20clara%20con%20alguna%20falta%20de%20organizaci%F3n%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presentaci%F3n%20poco%20clara%20o%20desordenada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Presentaci%F3n%20confusa%20e%20incoherente%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Habla%20con%20fluidez%2C%20buena%20pronunciaci%F3n%20y%20seguridad%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Se%20expresa%20adecuadamente%20con%20algunas%20dudas%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Dificultades%20de%20expresi%F3n%20o%20lectura%20excesiva%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20se%20expresa%20con%20claridad%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20recursos%20visuales%20muy%20adecuados%2C%20claros%20y%20bien%20integrados%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Recursos%20adecuados%20aunque%20mejorables%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Recursos%20poco%20claros%20o%20mal%20utilizados%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20utiliza%20recursos%20o%20son%20inadecuados%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todos%20los%20miembros%20participan%20de%20forma%20equilibrada%20y%20coordinada%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Participaci%F3n%20mayoritaria%20del%20grupo%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Participaci%F3n%20desigual%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Participa%20solo%20una%20persona%20o%20hay%20descoordinaci%F3n%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazu-g30txj6dn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazu-g30txj6dn</odePageId>
+      <odeBlockId>block-1779094558809-yulef7qxg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazu-g30txj6dn</odePageId>
+          <odeBlockId>block-1779094558809-yulef7qxg</odeBlockId>
+          <odeIdeviceId>idevice-1779094558807-0uxq6ll4l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autor: Francisco Velázquez Muñoz</p>
+<p>Descripción: El proyecto se centra en el montaje práctico de circuitos eléctricos sencillos (serie, paralelo y mixto), así como en la comprensión de su funcionamiento y aplicaciones en la vida cotidiana.</p>
+<p>Licencia de uso: Creative Commons Reconocimiento - compartir igual 4.0</p>
+<p>Descarga del archivo editable:  <a href="{{context_path}}/content/resources/circuitos-serie-paralelo- (1).elpx" title="circuitos-serie-paralelo.elpx">circuitos-serie-paralelo.elpx</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094558807-0uxq6ll4l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autor: Francisco Velázquez Muñoz</p>\n<p>Descripción: El proyecto se centra en el montaje práctico de circuitos eléctricos sencillos (serie, paralelo y mixto), así como en la comprensión de su funcionamiento y aplicaciones en la vida cotidiana.</p>\n<p>Licencia de uso: Creative Commons Reconocimiento - compartir igual 4.0</p>\n<p>Descarga del archivo editable:  <a href=\"{{context_path}}/content/resources/circuitos-serie-paralelo- (1).elpx\" title=\"circuitos-serie-paralelo.elpx\">circuitos-serie-paralelo.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpe7uazu-t6kpaesuz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpe7uazu-t6kpaesuz</odePageId>
+      <odeBlockId>block-1779098236126-cy3lnn47k</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpe7uazu-t6kpaesuz</odePageId>
+          <odeBlockId>block-1779098236126-cy3lnn47k</odeBlockId>
+          <odeIdeviceId>idevice-1779098236122-dhxbpnrwj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 2797px; border-color: #000000;">
+<tbody>
+<tr style="height: 57px;">
+<td style="width: 49.8599%; height: 57px; border-width: 1px;">TAREA</td>
+<td style="width: 49.8599%; height: 57px; border-width: 1px;">CRITERIO DE EVALUACIÓN</td>
+</tr>
+<tr style="height: 488px;">
+<td style="width: 49.8599%; height: 488px; border-width: 1px;">1. Identificación de componentes eléctricos (pila, bombilla, interruptor, cables)</td>
+<td style="width: 49.8599%; height: 488px; border-width: 1px;">
+<p>1.2. Comprender y examinar productos tecnológicos de uso habitual a través del análisis de objetos y sistemas, empleando el método científico y utilizando herramientas de simulación en la construcción de conocimiento.</p>
+<p>1.3  Adoptar medidas preventivas para la protección de los dispositivos, los datos y la salud personal, identificando problemas y riesgos relacionados con el uso de la tecnología y analizándolos de manera ética y crítica.</p>
+</td>
+</tr>
+<tr style="height: 849px;">
+<td style="width: 49.8599%; height: 849px; border-width: 1px;">2. Montaje de circuito en serie</td>
+<td style="width: 49.8599%; height: 849px; border-width: 1px;">
+<p>1.3</p>
+<p>2.2 Seleccionar, planificar y organizar los materiales y herramientas, así como las tareas necesarias para la construcción de una solución a un problema planteado, trabajando individualmente o en grupo de manera cooperativa y colaborativa</p>
+<p>3.1. Fabricar objetos o modelos mediante la manipulación y conformación de materiales, empleando herramientas y máquinas adecuadas, aplicando los fundamentos de estructuras, mecanismos, electricidad y electrónica y respetando las normas de seguridad y salud correspondientes.</p>
+</td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 49.8599%; height: 57px; border-width: 1px;">3. Montaje de circuito en paralelo</td>
+<td style="width: 49.8599%; height: 57px; border-width: 1px;">1.3 / 2.2 / 3.1</td>
+</tr>
+<tr style="height: 105px;">
+<td style="width: 49.8599%; height: 105px; border-width: 1px;">4. Medición de intensidad y voltaje en distintos puntos del circuito</td>
+<td style="width: 49.8599%; height: 105px; border-width: 1px;">3.1</td>
+</tr>
+<tr style="height: 449px;">
+<td style="width: 49.8599%; height: 449px; border-width: 1px;">5. Comparación de resultados entre serie y paralelo</td>
+<td style="width: 49.8599%; height: 449px; border-width: 1px;">
+<p>1.2</p>
+<p>7.1 Reconocer la influencia de la actividad tecnológica en la sociedad y en la sostenibilidad ambiental, a lo largo de su historia, identificando sus aportaciones y repercusiones y valorando su importancia para el desarrollo sostenible, contextualizando sus aplicaciones en nuestra comunidad.</p>
+</td>
+</tr>
+<tr style="height: 417px;">
+<td style="width: 49.8599%; height: 417px; border-width: 1px;">6. Elaboración de tabla comparativa (serie vs paralelo)</td>
+<td style="width: 49.8599%; height: 417px; border-width: 1px;">4.1. Representar y comunicar el proceso de creación de un producto, desde su diseño hasta su difusión, elaborando documentación técnica y gráfica con la ayuda de herramientas digitales, empleando los formatos y el vocabulario técnico adecuados, de manera colaborativa, tanto presencialmente como en remoto.</td>
+</tr>
+<tr style="height: 273px;">
+<td style="width: 49.8599%; height: 273px; border-width: 1px;">7. Resolución de preguntas sobre funcionamiento de circuitos</td>
+<td style="width: 49.8599%; height: 273px; border-width: 1px;">1.1 Definir problemas o necesidades planteadas, buscando y contrastando información procedente de diferentes fuentes de manera crítica y segura, evaluando su fiabilidad y pertinencia.</td>
+</tr>
+<tr style="height: 69px;">
+<td style="width: 49.8599%; height: 69px; border-width: 1px;">8. Presentación oral del circuito construido</td>
+<td style="width: 49.8599%; height: 69px; border-width: 1px;">4.1</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 49.8599%; height: 33px; border-width: 1px;">9. Autoevaluación del trabajo en grupo</td>
+<td style="width: 49.8599%; height: 33px; border-width: 1px;">1.1</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779098236122-dhxbpnrwj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 2797px; border-color: #000000;\">\n<tbody>\n<tr style=\"height: 57px;\">\n<td style=\"width: 49.8599%; height: 57px; border-width: 1px;\">TAREA</td>\n<td style=\"width: 49.8599%; height: 57px; border-width: 1px;\">CRITERIO DE EVALUACIÓN</td>\n</tr>\n<tr style=\"height: 488px;\">\n<td style=\"width: 49.8599%; height: 488px; border-width: 1px;\">1. Identificación de componentes eléctricos (pila, bombilla, interruptor, cables)</td>\n<td style=\"width: 49.8599%; height: 488px; border-width: 1px;\">\n<p>1.2. Comprender y examinar productos tecnológicos de uso habitual a través del análisis de objetos y sistemas, empleando el método científico y utilizando herramientas de simulación en la construcción de conocimiento.</p>\n<p>1.3  Adoptar medidas preventivas para la protección de los dispositivos, los datos y la salud personal, identificando problemas y riesgos relacionados con el uso de la tecnología y analizándolos de manera ética y crítica.</p>\n</td>\n</tr>\n<tr style=\"height: 849px;\">\n<td style=\"width: 49.8599%; height: 849px; border-width: 1px;\">2. Montaje de circuito en serie</td>\n<td style=\"width: 49.8599%; height: 849px; border-width: 1px;\">\n<p>1.3</p>\n<p>2.2 Seleccionar, planificar y organizar los materiales y herramientas, así como las tareas necesarias para la construcción de una solución a un problema planteado, trabajando individualmente o en grupo de manera cooperativa y colaborativa</p>\n<p>3.1. Fabricar objetos o modelos mediante la manipulación y conformación de materiales, empleando herramientas y máquinas adecuadas, aplicando los fundamentos de estructuras, mecanismos, electricidad y electrónica y respetando las normas de seguridad y salud correspondientes.</p>\n</td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 49.8599%; height: 57px; border-width: 1px;\">3. Montaje de circuito en paralelo</td>\n<td style=\"width: 49.8599%; height: 57px; border-width: 1px;\">1.3 / 2.2 / 3.1</td>\n</tr>\n<tr style=\"height: 105px;\">\n<td style=\"width: 49.8599%; height: 105px; border-width: 1px;\">4. Medición de intensidad y voltaje en distintos puntos del circuito</td>\n<td style=\"width: 49.8599%; height: 105px; border-width: 1px;\">3.1</td>\n</tr>\n<tr style=\"height: 449px;\">\n<td style=\"width: 49.8599%; height: 449px; border-width: 1px;\">5. Comparación de resultados entre serie y paralelo</td>\n<td style=\"width: 49.8599%; height: 449px; border-width: 1px;\">\n<p>1.2</p>\n<p>7.1 Reconocer la influencia de la actividad tecnológica en la sociedad y en la sostenibilidad ambiental, a lo largo de su historia, identificando sus aportaciones y repercusiones y valorando su importancia para el desarrollo sostenible, contextualizando sus aplicaciones en nuestra comunidad.</p>\n</td>\n</tr>\n<tr style=\"height: 417px;\">\n<td style=\"width: 49.8599%; height: 417px; border-width: 1px;\">6. Elaboración de tabla comparativa (serie vs paralelo)</td>\n<td style=\"width: 49.8599%; height: 417px; border-width: 1px;\">4.1. Representar y comunicar el proceso de creación de un producto, desde su diseño hasta su difusión, elaborando documentación técnica y gráfica con la ayuda de herramientas digitales, empleando los formatos y el vocabulario técnico adecuados, de manera colaborativa, tanto presencialmente como en remoto.</td>\n</tr>\n<tr style=\"height: 273px;\">\n<td style=\"width: 49.8599%; height: 273px; border-width: 1px;\">7. Resolución de preguntas sobre funcionamiento de circuitos</td>\n<td style=\"width: 49.8599%; height: 273px; border-width: 1px;\">1.1 Definir problemas o necesidades planteadas, buscando y contrastando información procedente de diferentes fuentes de manera crítica y segura, evaluando su fiabilidad y pertinencia.</td>\n</tr>\n<tr style=\"height: 69px;\">\n<td style=\"width: 49.8599%; height: 69px; border-width: 1px;\">8. Presentación oral del circuito construido</td>\n<td style=\"width: 49.8599%; height: 69px; border-width: 1px;\">4.1</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 49.8599%; height: 33px; border-width: 1px;\">9. Autoevaluación del trabajo en grupo</td>\n<td style=\"width: 49.8599%; height: 33px; border-width: 1px;\">1.1</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
